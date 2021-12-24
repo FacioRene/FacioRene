@@ -9,4 +9,4 @@ FacioRene/FacioRene is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->Lic. Matematicas, Investigacion de Operaciones, Estadistico, programador, especialista Seguridad Informatica, Universidad de La Habana 1982
 Autor de Teoremas sobre seguridad informatica. Desarrollo de Soft para celulares sobre privacidad (SMS, eMail y Chat). Desarrollo de Soft sobre seguridad informatica (PC)
-Interesado en lenguajes Xamarin.
+Interesado en lenguajes Xamarin, C++ y ensamblador.
